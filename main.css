@@ -13,7 +13,7 @@ header nav ul li{
 
 header nav{
     border: 6px solid darkblue;
-    background-color: rgb(202, 150, 19);
+    background-color: rgb(228, 165, 8);
 }
 
 main h1{
@@ -47,13 +47,12 @@ main img{
     height: 400px;
     border: 6px, solid, rgb(1, 1, 90);
     border-radius: 20px;
-    margin-right: 140px;
-    
+    margin-right: 160px;
 }
 
 footer{
     border: 6px solid darkblue;
-    background-color: rgb(202, 150, 19);
+    background-color: rgb(228, 165, 8);
     font-size: 30px;
     text-align: center;
     font-family: 'Century Gothic';
