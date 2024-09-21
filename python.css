@@ -24,7 +24,7 @@ main p{
     
 }
 
-video{
+video, .pdf , .erd{
     display: block;
     margin: auto;
 }
@@ -39,7 +39,5 @@ header a {
     text-decoration: none;
 }
 
-.pdf{
-    display: block;
-    margin: auto;
-}
+
+
