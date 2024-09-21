@@ -24,7 +24,7 @@ main p{
     
 }
 
-video, .pdf , .erd{
+video, .pdf , .erd, img{
     display: block;
     margin: auto;
 }
