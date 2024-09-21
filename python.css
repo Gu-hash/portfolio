@@ -38,3 +38,8 @@ header a {
     color: black;
     text-decoration: none;
 }
+
+.pdf{
+    display: block;
+    margin: auto;
+}
